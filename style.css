@@ -1,0 +1,349 @@
+.header{
+    background: #4d148c;
+    width: 100%;
+    height: 75px;
+}
+body{
+    margin: 0;
+    font-family: "Roboto",sans-serif;
+}
+.logo{
+    width: 10%;
+    padding-top: 25px;
+    margin-left: 275px;
+    float: left;
+    
+}
+
+.limage{
+    width: 88px;
+}
+.details{
+    width: 30%;
+    float:left;
+    color: white;
+    padding-top: 25px;
+    font-family: "Roboto",sans-serif;
+}
+.login{
+    width: 30%;
+    float: left;
+    color: white;
+    padding-top: 10px;
+    padding-left: 140px;
+    font-family: "Roboto",sans-serif;
+    
+}
+.select{
+    float:left;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    padding: 2em;
+    margin: -2em;
+    background:transparent;
+    color: white;
+}
+.style{
+    padding-left: 40px;
+
+}
+.backgroundimg{
+   height: 350px;
+   width: 100%;
+   margin-top: -4px;
+}
+.para{
+
+margin-top: -285px;
+margin-left: 274px;
+font-size: 40px;
+color: white;
+font-weight: 100;
+}
+.para1{
+    margin-top: -20px;
+    margin-left: 279px;
+     font-size: 18px;
+    line-height: 24px;
+    color: white;
+    font-weight: 300;
+    font-family: "Roboto",sans-serif;
+}
+.para2{
+    font-size: 25px;
+    color: black;
+    margin-top: 160px;
+    margin-left: 25px;
+    text-align: center;
+
+}
+.button1{
+    background: #ff6200;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 620px;
+    height: 70px;
+    width: 277px;
+    border: none;
+    padding: 15px;
+    font-weight: bold;
+}
+.para3{
+    font-size: 35px;
+    color: black;
+    margin-top: 80px;
+    margin-left: 25px;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: lighter;
+}
+.box1{
+    height: 250px;
+    width: 310px;
+    margin-top: 40px;
+    margin-left: 297px;
+    background-color: white;
+    
+}
+.box1h{
+    font-size: 25px;
+    color: black;
+    margin-top: 25px;
+    margin-left: 25px;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: lighter; 
+    float: left;
+}
+.boxbody1{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: lighter; 
+    margin-right: 58px;
+   
+}
+.box2{
+    height: 250px;
+    width: 310px;
+    margin-top: -250px;
+    margin-left: 650px;
+    background-color: white;
+}
+.boxbody2{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: lighter; 
+    margin-right: 93px;
+   
+}
+.box3{
+    height: 250px;
+    width: 310px;
+    margin-top: -250px;
+    margin-left: 1000px;
+    background-color: white;
+    
+}
+.boxbody3{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: lighter; 
+    margin-right: 105px;
+   
+}
+.box4{
+    height: 250px;
+    width: 310px;
+    margin-top: 12px;
+    margin-left: 297px;
+    background-color: white;
+    
+}
+.boxbody4{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: lighter; 
+    margin-right: 23px;
+   
+}
+.box5{
+    height: 250px;
+    width: 310px;
+    margin-top: -252px;
+    margin-left: 625px;
+    background-color: white;
+    
+}
+.boxbody5{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: lighter; 
+    margin-right: -5px;
+   
+}
+.box6{
+    height: 270px;
+    width: 310px;
+    margin-top: -252px;
+    margin-left: 970px;
+    background-color: white;
+    
+}
+.boxbody6{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: lighter; 
+    margin-right: -34px;
+   
+}
+.icon1{
+    height: 100px;
+    width: 100px;
+margin-left: 65px;
+}
+.icon2{
+    height: 100px;
+    width: 100px;
+    margin-left: 65px;
+}
+.icon3{
+    height: 100px;
+    width: 100px;
+    margin-left: 65px;
+}
+.icon4{
+    height: 100px;
+    width: 100px;
+    margin-left: 65px; 
+}
+.icon5{
+    height: 100px;
+    width: 100px;
+    margin-left: 65px; 
+}
+.icon6{
+    height: 100px;
+    width: 100px;
+    margin-left: 65px;
+}
+.connection{
+    height: 420px;
+    width: 100%;
+    background:rgb(244, 241, 241);
+}
+.boxx1{
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 60px;
+    padding-left: 200px;
+    float:left;
+}
+.headingh4{
+    color: #4d148c;
+    font-size: 10px;
+    font-family: "Dangrek",sans-serif;
+    font-weight: 700;
+    letter-spacing: .75px;
+    margin-top: 10px;
+    list-style: none;
+}
+.subpart1{
+    color:black;
+    font-size: 10px;
+    font-family: "Dangrek",sans-serif;
+    font-weight: 700;
+    letter-spacing: .75px; 
+    line-height: 25px; 
+}
+.boxx2{
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 60px;
+    float: left; 
+}
+
+
+.subpart1{
+    color:black;
+    font-size: 10px;
+    font-family: "Dangrek",sans-serif;
+    font-weight: 700;
+    letter-spacing: .75px; 
+    line-height: 25px; 
+}
+.boxx3{
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 45px;
+    float: left; 
+
+
+}
+.subpart1{
+    color:black;
+    font-size: 10px;
+    font-family: "Dangrek",sans-serif;
+    font-weight: 700;
+    letter-spacing: .75px; 
+    line-height: 25px; 
+}
+.boxx4{
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 45px;
+    float: left; 
+}
+.subpart1{
+    color:black;
+    font-size: 12px;
+    font-family: "Dangrek",sans-serif;
+    font-weight: 300;
+    letter-spacing: .75px; 
+    line-height: 25px; 
+}
+.icondesign{
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.socialconnection{
+    margin-top: 14px;
+    margin-left: 263px;
+    padding-top: 342px;
+}
+.footer{
+    padding: -26px 15px;
+    width: 100%;
+    background: #4d148c;
+}
+.footercontent{
+    color: white;
+    font-size: 12px;
+    margin-top: 31px;
+    margin-left: 293px;
+    padding-top: 13px;
+    padding-bottom: 1px;
+}
+.footercontent1{
+    color: white;
+    font-size: 17px;
+    margin-top: -40px;
+    margin-left: 1080px;
+    padding-top: 8px;
+    padding-bottom: 13px; 
+}

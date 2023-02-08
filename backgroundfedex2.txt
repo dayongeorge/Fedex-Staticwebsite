@@ -1,0 +1,21 @@
+  <div >
+    <img src="background.jpg" alt="" class="backgroundimg">
+    </div>
+    <div><p class="para">Where now meets next</p></div>
+    <div class="box1">
+        <p class="pdesign">RATE & TRANSIT TIME</p>
+    </div>
+    <div class="box2">  <p class="pdesign1">TRACK</p></div>
+    <div class="box3">  <p class="pdesign">SHIP</p></div>
+   <div>
+    <form action="">
+        <table>
+            <tr>
+                <td input type="number">TRACKING ID</td>
+                <td input type="submit" value="TRACK"></td>
+            </tr>
+        </table>
+    </form>
+    <div class="body1">
+        <img src="plane.jpg" alt="" class="planesize">
+            </div>

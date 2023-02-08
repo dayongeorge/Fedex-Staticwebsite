@@ -1,0 +1,13 @@
+  <div>
+        <div class="container2">
+            <img src="background1.jpg" alt="" class="backgroundimg">
+            <div class="ha"><p class="para">Open an account</p></div>
+            <div class="hb"><p>Take advantage of our services and solutions designed to meet <br> all of your shipping requirements. Sign up for a FedEx shipping <br> account now.</p></div>
+          
+        </div>
+    </div>
+    <div class="secondpage">
+        <div class="hc">
+<p >Sign up a business account now to enjoy personalized rates and pay within our <br> standard 15-day credit term</p></div>
+    </div>
+  

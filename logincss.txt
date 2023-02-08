@@ -1,0 +1,54 @@
+ .ha{
+    width: 600px;
+    position: absolute;
+  top: 15%;
+  left: 51%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: "Roboto",sans-serif;
+  line-height: 50px;
+  letter-spacing: .5px;
+  max-width: 415px;
+  font-weight: 100;
+  font-size: 48px;
+  margin-top: 65px;
+  margin-left: -345px;
+
+ 
+ 
+}
+.hb{
+    width: 600px;
+    position: absolute;
+  top: 15%;
+  left: 51%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: "Roboto",sans-serif;
+  font-weight: 2px;
+  font-size: 18px;
+  line-height: 24px; 
+  margin-top: 140px;
+  margin-left: -235px;
+  text-align: left;
+  
+}
+.secondpage{
+    height: 500px;
+    width: 100%;
+}
+.hc{
+    width: 100%;
+    position: absolute;
+  top: 160%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-family: "Roboto",sans-serif;
+  font-weight: 2px;
+  font-size: 25px;
+  line-height: 24px; 
+  margin-top: -360px;
+  margin-left: -235px;
+  text-align: center;  
+}

@@ -1,0 +1,27 @@
+.box1{
+    height: 120px;
+    margin-top: -305px;
+    margin-left: 505px;
+    width: 158px;
+   background:white;
+   position: relative;
+   float: left;
+}
+.box2{
+    height: 140px;
+    margin-top: -315px;
+    margin-left: 664px;
+    width: 158px;
+   background: #4d148c;
+   position: relative;
+   float: left;
+}
+.box3{
+    margin-top: -305px;
+    margin-left: 822px;
+    height: 120px;
+    width: 158px;
+   background:white;
+   position: relative;
+   float: left;
+}

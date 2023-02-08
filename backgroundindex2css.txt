@@ -1,0 +1,117 @@
+.container2 {
+    position: relative;
+    text-align: center;
+    color:black;
+ 
+  }
+  .box1{
+    height: 120px;
+    margin-top: 15px;
+    margin-left: 520px;
+    width: 158px;
+   background:white;
+   position: relative;
+   float: left;
+   cursor: pointer;
+}
+.box2{
+    height: 140px;
+    margin-top: 7px;
+    margin-left: 0px;
+    width: 158px;
+   background: #4d148c;
+   position: relative;
+   float: left;
+   cursor: pointer;
+}
+.box3{
+    margin-top: -130px;
+    margin-left: 836px;
+    height: 120px;
+    width: 158px;
+   background:white;
+   position: relative;
+   float: left;
+   cursor: pointer;
+}
+.para{
+    font-size: 45px;
+    line-height: 60px;
+    letter-spacing: -0.63px;
+    font-weight: 300;
+    color: white;
+    margin-top: -410px;
+    margin-left: 530px;
+   
+    font-family: "Roboto",sans-serif;
+
+}
+.pdesign{
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: #333;
+    cursor: pointer;
+    text-align: center;
+    padding-top: 65px;
+    display: flex;
+    flex-direction: column;
+}
+.pdesign1{
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    padding-top: 65px;
+}
+.pdesign2{
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: black;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: -420px;
+
+}
+.pdesign3{
+    background-color: #ff6200;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: black;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: -420px;
+}
+.input{
+    background: #fafafa;
+    font-size: 20px;
+    font-weight: 300;
+    width: 250px;
+    padding-top: 36px;
+    padding-left: 176px;
+    margin-top: 175px;
+    margin-left: -511px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+.body1{
+   
+    height:270 px;
+    width: 970 px;
+background: rgb(198, 195, 195);
+padding-top: 10px;
+padding-left: 10px;
+}
+.planesize{
+    height: 270px;
+    width: 430px;
+    padding-top: 10px;
+padding-left: 10px;
+}

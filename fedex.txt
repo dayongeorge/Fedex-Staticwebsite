@@ -1,0 +1,25 @@
+<select class="select" name="" id="">
+    <option value="">Shipping </option>
+    <option value="">Ship Now</option>
+    <option value="">Ship Manager Lite </option>
+    <option value="">Shipping tools  </option>
+    <option value="">Shipping </option>
+</select>
+<select class="select" name="" id="">
+    <option value="">Tracking </option>
+    
+   
+</select>
+<select class="select" name="" id="">
+    <option class="dropdown" value="">Support </option>
+    <option class=".dropdown-content" value="">New Customer Center</option>
+    <option class=".dropdown-content" value="">File a Claim</option>
+   
+</select>
+<select class="select" name="" id="">
+    <option class=".dropdown-content" value="">Account</option>
+    <option class=".dropdown-content" value="">Fedex Rate Sheet</option>
+    <option value="">Manage Reporting Online </option>
+    <option value="">FedEx Administration </option>
+    <option value="">My Profile </option>
+</select>
